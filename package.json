@@ -1,0 +1,23 @@
+{
+  "name": "smbhungamaband",
+  "version": "1.0.0",
+  "description": "SMB Hungama Band - Live Wedding & Event Bands website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinpal548/smbhungamaband.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinpal548/smbhungamaband/issues"
+  },
+  "homepage": "https://github.com/jatinpal548/smbhungamaband#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
